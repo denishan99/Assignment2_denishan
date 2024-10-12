@@ -66,7 +66,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+        "url": "https://raw.githubusercontent.com/denishan99/Assignment2_denishan/refs/heads/main/js/oceans.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "skyblue"}
